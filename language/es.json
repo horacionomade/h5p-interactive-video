@@ -36,7 +36,7 @@
               ]
             },
             {
-              "label": "Text tracks (unsupported for YouTube videos)",
+              "label": "Pistas de texto (no admitidas para videos de YouTube)",
               "fields": [
                 {
                   "label": "Pistas de texto disponibles",
@@ -248,16 +248,16 @@
           "description": "Introduzca el código de tiempo en el formato M:SS"
         },
         {
-          "label": "Loop the video",
-          "description": "Check if video should run in a loop"
+          "label": "Pasa el video nuevamente",
+          "description": "Verifica si el video debe ejecutarse en un bucle"
         },
         {
-          "label": "Override \"Show Solution\" button",
-          "description": "This option determines if the \"Show Solution\" button will be shown for all questions, disabled for all or configured for each question individually."
+          "label": "Reemplazar el botón \"Mostrar solución\"",
+          "description": "Esta opción determina si el botón \"Mostrar solución\" se mostrará para todas las preguntas, se desactivará para todos o se configurará para cada pregunta individualmente."
         },
         {
-          "label": "Override \"Retry\" button",
-          "description": "This option determines if the \"Retry\" button will be shown for all questions, disabled for all or configured for each question individually.",
+          "label": "Anular el botón \"Reintentar\"",
+          "description": "Esta opción determina si el botón \"Reintentar\" se mostrará para todas las preguntas, se desactivará para todos o se configurará para cada pregunta individualmente.",
           "options": [
             {
               "label": "Habilitado"
@@ -268,8 +268,8 @@
           ]
         },
         {
-          "label": "Show bookmarks menu on load",
-          "description": "This function is not available on iPad when using YouTube as video source",
+          "label": "Mostrar el menú de marcadores al cargar",
+          "description": "Esta función no está disponible en el iPad cuando usas YouTube como fuente de video",
           "options": [
             {
               "label": "Habilitado"
@@ -280,15 +280,15 @@
           ]
         },
         {
-          "label": "Show button for rewinding 10 seconds",
-          "description": "This function is not available on iPad when using YouTube as video source"
+          "label": "Mostrar botón para rebobinar 10 segundos",
+          "description": "Esta función no está disponible en el iPad cuando usas YouTube como fuente de video"
         },
         {
-          "label": "Prevent skipping forward in a video"
+          "label": "Evite saltar hacia adelante en un video"
         },
         {
-          "label": "Deactivate sound",
-          "description": "Enabling this option will deactivate the video's sound and prevent it from being switched on."
+          "label": "Desactivar sonido",
+          "description": "Habilitar esta opción desactivará el sonido del video y evitará que se encienda."
         },
         {
           "label": "Desactivar sonido",
@@ -348,8 +348,8 @@
           "default": "Marcadores"
         },
         {
-          "label": "Submit screen title",
-          "default": "Submit screen"
+          "label": "Enviar título de pantalla",
+          "default": "Pantalla de envío"
         },
         {
           "label": "Etiqueta predeterminada para el botón de búsqueda de adaptabilidad",
@@ -424,46 +424,46 @@
           "default": "Content"
         },
         {
-          "label": "Answered message (@answered will be replaced with the number of answered questions)",
-          "default": "@answered answered"
+          "label": "Mensaje contestado (@answered será reemplazado por el número de preguntas respondidas)",
+          "default": "@answered contestada"
         },
         {
-          "label": "Submit screen title",
-          "default": "@answered Question(s) answered",
-          "description": "@answered will be replaced by the number of answered questions."
+          "label": "Enviar título de pantalla",
+          "default": "@answered Pregunta(s) respondida",
+          "description": "@answered será reemplazado por el número de preguntas respondidas."
         },
         {
-          "label": "Submit screen information",
-          "default": "You have answered @answered questions, click below to submit your answers.",
-          "description": "@answered will be replaced by the number of answered questions."
+          "label": "Enviar información de la pantalla",
+          "default": "Usted ha respondido @answered preguntas, haga clic a continuación para enviar sus respuestas.",
+          "description": "@answered será reemplazado por el número de preguntas respondidas."
         },
         {
-          "label": "Submit screen information for missing answers",
-          "default": "You have not answered any questions."
+          "label": "Enviar información de la pantalla para las respuestas faltantes",
+          "default": "Usted no ha respondido ninguna pregunta."
         },
         {
-          "label": "Submit screen information for answer needed",
-          "default": "You have to answer at least one question before you can submit your answers."
+          "label": "Enviar información de la pantalla para la respuesta necesaria",
+          "default": "Debe responder al menos una pregunta antes de enviar sus respuestas."
         },
         {
-          "label": "Submit screen submit button",
-          "default": "Submit Answers"
+          "label": "Presentar el botón Enviar de la pantalla",
+          "default": "Presentar respuestas"
         },
         {
-          "label": "Submit screen submit message",
+          "label": "Enviar pantalla enviar mensaje",
           "default": "Your answers have been submitted!"
         },
         {
-          "label": "Submit screen table row title: Answered questions",
-          "default": "Answered questions"
+          "label": "Enviar título de fila de la tabla de pantalla: preguntas respondidas",
+          "default": "Preguntas respondidas"
         },
         {
-          "label": "Submit screen table row title: Score",
-          "default": "Score"
+          "label": "Enviar el título de la fila de la tabla de la pantalla: Puntuación",
+          "default": "Puntuación"
         },
         {
-          "label": "Submit screen answered score",
-          "default": "answered"
+          "label": "Pantalla de envío respondida puntuación",
+          "default": "contestada"
         }
       ]
     }
